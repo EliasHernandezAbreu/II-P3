@@ -22,11 +22,20 @@ En la descripción de la práctica se pedía modificar los mismos objetos múlti
 Situaciones físicas:
 
 1- La esfera y el plano se quedan flotando, el cubo se queda apoyado en el plano.
+
 2- La esfera cae y choca con el cubo.
+
 3- Igual que la primera situación
+
 4- Todos caen al vacío
+
 5- Todos caen al vacío
+
 6- Todos caen al vacío
+
 7- Todos caen al vacío
+
 8- El plano y el cubo caen al vacío, la esfera flota
+
 9- Todos caen al vacío
+
